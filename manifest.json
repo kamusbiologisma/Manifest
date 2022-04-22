@@ -1,0 +1,39 @@
+{
+  "name": "Kamus Biologi SMA",
+  "short_name": "KamusBiologi",
+  "scope": "https://www.kamusbiologisma.com/",
+  "start_url": "URL HOMEPAGE",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#014a19",
+  "description": "Kamus Biologi SMA menyajikan soal dan pembahasan biologi, pembelajaran biologi, dan kajian biologi terbaru.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNXnizCgA6MGrs7y2nKlUm3436KNhjYmApHAMSvMgJ9meQxX8EwZHrUwsIqW1ck-54UxJfzPRCnC2VeGFpPpqUj3IrHjpzWykK_dbTitrwV54BHLDVPL_dbuSQjagyoay28M9zxmgQTzdi2izNHPSdgMPGeB6zElAlIHNT-RpSQIoAfqp7JGXs7uH84Q/s48/kamusbiologisma.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNXnizCgA6MGrs7y2nKlUm3436KNhjYmApHAMSvMgJ9meQxX8EwZHrUwsIqW1ck-54UxJfzPRCnC2VeGFpPpqUj3IrHjpzWykK_dbTitrwV54BHLDVPL_dbuSQjagyoay28M9zxmgQTzdi2izNHPSdgMPGeB6zElAlIHNT-RpSQIoAfqp7JGXs7uH84Q/s72/kamusbiologisma.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNXnizCgA6MGrs7y2nKlUm3436KNhjYmApHAMSvMgJ9meQxX8EwZHrUwsIqW1ck-54UxJfzPRCnC2VeGFpPpqUj3IrHjpzWykK_dbTitrwV54BHLDVPL_dbuSQjagyoay28M9zxmgQTzdi2izNHPSdgMPGeB6zElAlIHNT-RpSQIoAfqp7JGXs7uH84Q/s96/kamusbiologisma.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNXnizCgA6MGrs7y2nKlUm3436KNhjYmApHAMSvMgJ9meQxX8EwZHrUwsIqW1ck-54UxJfzPRCnC2VeGFpPpqUj3IrHjpzWykK_dbTitrwV54BHLDVPL_dbuSQjagyoay28M9zxmgQTzdi2izNHPSdgMPGeB6zElAlIHNT-RpSQIoAfqp7JGXs7uH84Q/s144/kamusbiologisma.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNXnizCgA6MGrs7y2nKlUm3436KNhjYmApHAMSvMgJ9meQxX8EwZHrUwsIqW1ck-54UxJfzPRCnC2VeGFpPpqUj3IrHjpzWykK_dbTitrwV54BHLDVPL_dbuSQjagyoay28M9zxmgQTzdi2izNHPSdgMPGeB6zElAlIHNT-RpSQIoAfqp7JGXs7uH84Q/s168/kamusbiologisma.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNXnizCgA6MGrs7y2nKlUm3436KNhjYmApHAMSvMgJ9meQxX8EwZHrUwsIqW1ck-54UxJfzPRCnC2VeGFpPpqUj3IrHjpzWykK_dbTitrwV54BHLDVPL_dbuSQjagyoay28M9zxmgQTzdi2izNHPSdgMPGeB6zElAlIHNT-RpSQIoAfqp7JGXs7uH84Q/s192/kamusbiologisma.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNXnizCgA6MGrs7y2nKlUm3436KNhjYmApHAMSvMgJ9meQxX8EwZHrUwsIqW1ck-54UxJfzPRCnC2VeGFpPpqUj3IrHjpzWykK_dbTitrwV54BHLDVPL_dbuSQjagyoay28M9zxmgQTzdi2izNHPSdgMPGeB6zElAlIHNT-RpSQIoAfqp7JGXs7uH84Q/s512/kamusbiologisma.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
